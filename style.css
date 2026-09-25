@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: rgb(250, 243, 243);
+}
+nav#topmenu{
+    list-style: none;
+    background: maroon;
+    padding: 0;
+    margin: 0;
+}
+nav#topmenu ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+nav#topmenu li{
+    display: inline-block;
+}
+nav#topmenu a{
+    display: block;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: #0f0f0f;
+}
+nav#topmenu a{
+    background: #f8f6f6;   
+}
+section {
+    margin-left: 20px;
+}
+header > p {
+    font-style:Arial;
+}
+article > p {
+    font-size: 24;
+}
